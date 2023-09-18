@@ -1,8 +1,6 @@
 ---
-title: Hello World
+title: <ruby>蜜柑次郎<rp>(</rp><rt>みかんじろう</rt><rp>)</rp></ruby>　<ruby>双葉<rp>(</rp><rt>ふたば</rt><rp>)</rp></ruby>よう
 categories:
 - General
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-
-This is my very first blog post. I haven't written anything yet but I'm sure I have some great stories to tell.
